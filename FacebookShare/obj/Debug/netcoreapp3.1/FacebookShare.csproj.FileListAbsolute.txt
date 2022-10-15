@@ -14,7 +14,6 @@ D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\obj\Debug\netcoreapp3.
 D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\obj\Debug\netcoreapp3.1\FacebookShare.pdb
 D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\obj\Debug\netcoreapp3.1\FacebookShare.genruntimeconfig.cache
 D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\obj\Debug\netcoreapp3.1\FacebookShare.Form2.resources
 D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\bin\Debug\netcoreapp3.1\Emgu.CV.Platform.NetStandard.dll
 D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\bin\Debug\netcoreapp3.1\Emgu.CV.Bitmap.dll
 D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
@@ -42,7 +41,11 @@ D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\bin\Debug\netcoreapp3.
 D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
 D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\obj\Debug\netcoreapp3.1\FacebookShare.Properties.Resources.resources
-D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\obj\Debug\netcoreapp3.1\FacebookShare.csprojAssemblyReference.cache
 D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\bin\Debug\netcoreapp3.1\AForge.dll
 D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\bin\Debug\netcoreapp3.1\AForge.Video.dll
 D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\bin\Debug\netcoreapp3.1\AForge.Video.DirectShow.dll
+D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\obj\Debug\netcoreapp3.1\FacebookShare.csproj.AssemblyReference.cache
+D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\obj\Debug\netcoreapp3.1\FacebookShare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\obj\Debug\netcoreapp3.1\FacebookShare.Settings.resources
+D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\obj\Debug\netcoreapp3.1\FacebookShare.Acceuil.resources
+D:\Users\Desktop\source\repos\FacebookShare\FacebookShare\obj\Debug\netcoreapp3.1\FacebookShare.Capture.resources
